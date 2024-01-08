@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="auto_image_slider_in_android">Auto Image Slider in Android</string>
+    <string name="slider_desc" />
+    <string name="enter_ip_address">Enter Ip address</string>
+    <string name="connect">Connect</string>
+</resources>
